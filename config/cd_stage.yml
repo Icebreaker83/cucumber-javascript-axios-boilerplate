@@ -1,0 +1,9 @@
+###
+#
+# cd_stage.yml
+#
+# Config data for the Staging environment
+#
+###
+
+url: 'https://whatever.com/staging/api'

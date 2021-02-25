@@ -1,0 +1,52 @@
+###
+#
+# td_stage.yml
+#
+# TD (Test Data) test data for the Staging environment
+#
+###
+default_password: DefaultPassword!2017
+
+clients:
+  regular:
+    username: test_client_id
+    password: l3tfrpxs0a9tp4mrj2uj
+
+users:
+  regular_user_1:
+    gid: 8827706988384456aea3a6741226effe
+    email: QA.User.5@gmail.com
+    password: QAuser&&&2017
+    username: QA_User_5
+    about_user: "QA"
+    countryCode: "RS"
+    firstname: "John"
+    lastname: "Smith"
+    facebook_username: "facebook_qa"
+    instagram_username: "instagram_qa"
+    twitter_username: "twitter_qa"
+
+  regular_user_2:
+    gid: 9db56908125e486cb609507545e0c920
+    email: regular.user.2@gmail.com
+    password: QAuser2017&&&
+    username: qa_user_cm
+
+  admin_user:
+    gid: 5b71bf90058740d08eaadba6dc9ec780
+    email: qaadmir@gmail.com
+    password: QAuser2017&&&
+    username: qaadmir
+
+  qa_user_5:
+    email: gn.reg.user@gmail.com
+    password: QAuser&&&2017
+    username: QA_User_5
+    about_user: "QA"
+    countryCode: "RS"
+    firstname: "John"
+    lastname: "Smith"
+    facebook_username: "facebook_qa"
+    instagram_username: "instagram_qa"
+    twitter_username: "twitter_qa"
+

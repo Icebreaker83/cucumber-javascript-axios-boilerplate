@@ -1,0 +1,25 @@
+###
+#
+# TD (Test Data) test data for the Test environment
+#
+###
+default_password: QAuser!2017
+
+clients:
+  regular:
+    username: test_client_id
+    password: l3tfrpxs0a9tp4mrj2uj
+
+users:
+  qa_user_5:
+    email: reg.user@gmail.com
+    password: QAuser&&&2017
+    username: QA_Registered_User
+    about_user: "QA"
+    countryCode: "RS"
+    firstname: "John"
+    lastname: "Smith"
+    facebook_username: "facebook_qa"
+    instagram_username: "instagram_qa"
+    twitter_username: "twitter_qa"
+
